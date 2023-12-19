@@ -1,15 +1,15 @@
 # btj-academy-fe-tw-nevi
 ### Responsive Website using Tailwind
 
-  src/
-  |-- img/
-  |   |-- 6333043.jpg
-  |   |-- bg-about-me.png
-  |   |-- foto__1___1_-removebg-preview.png
-  |-- about.html
-  |-- input.css
-  |-- login.html
-  |-- script.js
+    src/
+    |-- img/
+    |   |-- 6333043.jpg
+    |   |-- bg-about-me.png
+    |   |-- foto__1___1_-removebg-preview.png
+    |-- about.html
+    |-- input.css
+    |-- login.html
+    |-- script.js
 
 
 ## Header and Navbar 
