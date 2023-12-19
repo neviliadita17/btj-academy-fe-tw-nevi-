@@ -1,5 +1,5 @@
-# btj-academy-fe-tw-nevi
-### Responsive Website using Tailwind
+# Responsive Website using Tailwind
+## Mapping file 
 
     src/
     |-- img/
